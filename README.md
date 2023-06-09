@@ -14,4 +14,4 @@ You can join the chat application as a user using this command:
 
 You can run this command in different Command Prompt/Termianl windows to connect multiple users in the chat.
 
-![Chat Application](https://github.com/RishavjotSingh/ChatApplication/assets/114448460/cb1b8c5d-18b3-4fca-9cf0-eb39bbaa877d)
+![ChatApplication](https://github.com/RishavjotSingh/ChatApplication/assets/114448460/7f4b09f9-a335-478d-b3bd-bff804c5400c)
