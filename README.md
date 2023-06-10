@@ -1,5 +1,6 @@
 ## About the Project
 A chat application that uses TCP connections for communication between clients and server.
+The GUI is created using Tkinter.
 
 ## How to Run 
 Clone the GitHub repository or directly copy and paste the code from server.py and client.py files to create these files on your system.
